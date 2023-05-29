@@ -1,0 +1,2 @@
+user=root
+dburl=jdbc:mysql://localhost:3306/coursejdbc
